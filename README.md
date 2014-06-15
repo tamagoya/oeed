@@ -1,9 +1,9 @@
-oeed
+oeed :muscle:
 ====
 
 Open Engineer Energy Drink.
 
-材料(分量: 1l)
+材料(分量: 1l) :honey_pot:
 ------
 
 * 炭酸水 750ml
@@ -17,7 +17,7 @@ Open Engineer Energy Drink.
 * マカ粉末 350mg
 * ガラナ粉末 350mg
 
-作り方
+作り方 :cookie:
 ------
 
 1. カフェイン(錠剤)をすり鉢等ですり潰す
@@ -29,3 +29,9 @@ Open Engineer Energy Drink.
 ------
 
 * よく冷やしてお召し上がり下さい :tropical_drink:
+
+美味しいお召し上がり方 :four_leaf_clover:
+-------------------------
+
+* ピザのお共に! :pizza:
+* お好みでアイスクリームをトッピング :icecream:
