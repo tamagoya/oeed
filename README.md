@@ -1,13 +1,20 @@
-oeed :muscle:
+oted :muscle:
 ====
 
-Open Engineer Energy Drink.
+Open TEDxYouth Energy Drink.
+For TEDxYouth@Kobe 2016.
+
+キャッチコピー
+------
+
+桃のOTEDに挑め！！
+～逃げずに飲みきってみよう～
 
 材料(分量: 1l) :honey_pot:
 ------
 
 * 炭酸水 750ml
-* フレーバーシロップ(メロン) 250 ml
+* フレーバーシロップ(桃) 250 ml
 * カフェイン(錠剤) 600mg
 * スッポン粉末 350mg
 * エラブ粉末  350mg
@@ -20,9 +27,9 @@ Open Engineer Energy Drink.
 作り方 :cookie:
 ------
 
-1. カフェイン(錠剤)をすり鉢等ですり潰す
+1. カフェイン(錠剤)をお湯で溶かす
 2. 容器に、フレーバーシロップを入れて、炭酸水で4倍に希釈する
-3. 2に、粉末状になったカフェインと各種粉末を入れる
+3. 2に、液体状になったカフェインと各種粉末を入れる
 4. よくかき混ぜる
 
 注意 :fire:
@@ -35,3 +42,4 @@ Open Engineer Energy Drink.
 
 * ピザのお共に! :pizza:
 * お好みでアイスクリームをトッピング :icecream:
+* かき氷にかけてもOK :shaved_ice:
